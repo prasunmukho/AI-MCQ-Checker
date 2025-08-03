@@ -1,0 +1,9 @@
+# Ignore Python virtual environment folder
+env/
+env\
+
+# Ignore common Python cache files
+__pycache__/
+
+# Ignore pdf files
+*.pdf
